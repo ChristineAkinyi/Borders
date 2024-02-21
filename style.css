@@ -1,0 +1,12 @@
+#container{
+    border: dotted; 
+  color:rgb(14, 190, 196);
+}
+  
+  #text{
+    padding: 20px;
+    margin: 5%;
+    border: solid; 
+    color:rgb(8, 8, 8);
+
+}
